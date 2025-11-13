@@ -43,7 +43,16 @@ A modern weather application built with **React**, featuring real-time weather d
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<kullaniciadi>/<repo-adi>.git
+git clone # 1. Clone the repository https://github.com/TyLnZgr/weather-react-app
+
+# 2. Navigate into the project
+cd <repo-adi>
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the development server
+npm run dev
 
 # 2. Navigate into the project
 cd <repo-adi>
